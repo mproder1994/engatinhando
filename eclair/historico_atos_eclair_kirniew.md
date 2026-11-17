@@ -4,54 +4,96 @@
 
 **Grafias do sobrenome encontradas nos atos:** Kirniew, Kirnew, Kiernew e Kierniew. Use todas nas buscas (CNIB, RI, Sisbajud, Renajud).
 
-*Atualizado em 17/11/2026, com base nas certidões emitidas na mesma data. **Por ora, o imóvel de Toledo/PR (Mat. 20.924) está fora desta análise.***
+**Filhos (todos de Alexandre Kirniew e Eclair):** Janes Maria Cavanhi, Jeanete Teresinha Kirnew Ujacov (casada com Angelo Ujacov), Jacir José Kirniew, Jaime Luiz Kirniew, Jaqueline Elena Kirniew, Jair Antonio Kierniew e Jairo Carlos Kirniew. Neto que aparece nos atos: **Jacson Luis Cavanhi**, filho de Janes. Neta que atua como procuradora: **Allana Carla Cavanhi**, filha de Janes.
+
+*Atualizado em 17/11/2026, com base em 9 certidões do 2º Tabelionato de Erechim emitidas nessa data. **Por ora, o imóvel de Toledo/PR (Mat. 20.924) está fora desta análise.***
 
 ---
 
-## 1. Linha do tempo
+## 1. O imóvel: Lote Rural nº 03, Linha 04, Secção Paiol Grande, Paulo Bento/RS
+
+Evolução das matrículas (todas no RI de Erechim):
+
+```
+Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m²)
+  CCIR 857.017.032.220-7 e NIRF 2.071.220-0 em nome de ECLAIR (25 ha)
+  │
+  ├─ 25/01/2022: venda de 7.911,28 m² a Maurício Gian Tormen (R$ 70.000,00)
+  │
+  └─ Remanescente de 246.193,43 m² + casa  →  Mat. 89.038
+        │  Condomínio: Eclair 12,5% | Jeanete e Angelo 12,5% | Jacir 12,5% | Jairo 12,5%
+        │              Jaime 12,5% | Jacson (neto) 12,5% | Jaqueline 25%
+        │
+        ├─ 21/06/2022: 153.870,90 m² para Jairo, Jaime, Jacson e Jaqueline → vendidos aos irmãos Prigol (R$ 1.340.000,00)
+        │
+        └─ 21/06/2022: 92.322,53 m² + casa para ECLAIR, Jeanete e Angelo, e Jacir (1/3 cada)  →  Mat. 89.567
+              │
+              ├─ 22/09/2023: Eclair doa 4.396 m² + 1/3 da casa a Jeanete e Angelo, e 4.396 m² a Jacir; extinção do condomínio
+              │      → Jeanete e Angelo: 35.170,49 m² + casa | Jacir: 35.170,49 m² | Eclair: 21.981,55 m²
+              │
+              └─ 22/09/2023: Eclair doa a NUA PROPRIEDADE dos 21.981,55 m² aos outros 5 filhos
+                     → ECLAIR FICA SÓ COM O USUFRUTO VITALÍCIO
+```
+
+---
+
+## 2. Linha do tempo
 
 | # | Data | Ato / documento | Imóvel | Conteúdo relevante | Fonte |
 |---|------|-----------------|---------|--------------------|-------|
-| 1 | **06/12/2022** | Emissão das guias de ITCD nº 1568911 e 1569002 | Mat. 89.567 (Paulo Bento/RS) | Começa a preparação das doações aos filhos (avaliações fiscais de R$ 38.000,00 e R$ 28.000,00). | Escritura Livro 370, fl. 104 |
-| 2 | **07/12/2022 a 28/12/2022** | Guias de ITCD nº 1568911, 1569002 e **1569030** (esta de 07/12/2022, avaliação de **R$ 144.000,00**) e pagamento do ITCD das doações de Eclair (R$ 840,00, R$ 1.140,00 e **R$ 4.320,00**, este em 28/12/2022) | Mat. 89.567 | Todo o imposto das doações de Eclair, inclusive o da doação com usufruto, é pago **9 meses antes** das escrituras. As doações estavam planejadas desde dez/2022. | Escrituras Livro 370, fls. 104 e 107 |
-| 3 | 17/04/2023 | Guia e pagamento do ITCD da 3ª doação (Jacir → Jeanete), R$ 246,03 | Mat. 89.567 | — | Escritura Livro 370, fl. 104 |
-| 4 | **22/09/2023** | **Escritura de Doação e Extinção de Condomínio nº 52.325-043** (2º Tabelionato de Erechim, **Livro 370-T, fls. 100/105**) | **Mat. 89.567 – RI Erechim**: parte do Lote Rural nº 03, Linha 04, Secção Paiol Grande, **Paulo Bento/RS**, 92.322,53 m² com casa de madeira de 73,50 m². CCIR 857.017.032.220-7 (9,2322 ha) em nome de Eclair; NIRF 2.071.220-0. | **Situação anterior:** condomínio de 1/3 para cada um (Eclair; Jeanete e Angelo Ujacov; Jacir José Kirniew).<br>**Doação 1:** Eclair → Jeanete e Angelo: 4.396,3133 m² de terra e 24,50 m² da casa (R$ 38.000,00).<br>**Doação 2:** Eclair → Jacir: 4.396,3133 m² (R$ 28.000,00).<br>**Doação 3:** Jacir → Jeanete e Angelo: 24,50 m² da casa.<br>**Nas doações 1 e 2, Eclair DECLARA que "possui outros bens e meios suficientes para garantir sua subsistência" e por isso não reserva usufruto.**<br>**Extinção do condomínio:** Eclair fica com área certa de **21.981,55 m²** (item "a"); Jeanete e Angelo com 35.170,49 m² e a casa; Jacir com 35.170,49 m².<br>As partes pedem a averbação do desmembramento. Dispensam as certidões dos distribuidores da Justiça Estadual, Federal e do Trabalho e "foram alertadas sobre os riscos". | Certidão 2º Tab. Erechim, Livro 370, fls. 100/105 |
-| 5 | **22/09/2023** (mesmo dia) | **Escritura de Doação de Imóvel com Reserva de Usufruto nº 52.326-044** (2º Tabelionato de Erechim, **Livro 370-T, fls. 106/108**) | Área "a" que coube a Eclair na extinção do condomínio: **21.981,55 m²**, sem benfeitorias, parte do Lote Rural 03, Paulo Bento/RS (Mat. 89.567) | Eclair doa a **nua propriedade** e **reserva para si o USUFRUTO VITALÍCIO**. Os donatários são os outros 5 filhos:<br>1) **Janes Maria Cavanhi** (CPF 227.827.020-68), Erechim;<br>2) **Jaime Luiz Kirniew** (CPF 324.956.250-53), Uberlândia/MG, em união estável com Cinara Gonçalves, representado por Jaqueline;<br>3) **Jaqueline Elena Kirniew** (CPF 572.833.700-72), Erechim;<br>4) **Jair Antonio Kierniew** (CPF 466.041.380-20), Erechim, casado com Andreia Aparecida dos Santos Kierniew, representado por Jaqueline. **A consulta à CNIB deu INDISPONIBILIDADE POSITIVA em nome dele**, e as partes foram advertidas de que o registro poderia ser impedido;<br>5) **Jairo Carlos Kirniew** (CPF 398.914.450-20), Erechim, casado com Inês Assunta Mariga Kirniew.<br>**Avaliação fiscal: R$ 144.000,00.** Eclair **declara que "possui outros meios suficientes para garantir sua subsistência"**. Dispensa das certidões dos distribuidores judiciais, com advertência dos riscos. | Certidão 2º Tab. Erechim, Livro 370, fls. 106/108 |
-| 6 | **08/04/2024** | Rerratificação nº 25.035-015 (Livro C-189, fl. 036) | Mat. 89.567 | Corrige a planilha de coordenadas (P18/P19) do item "c". Erro de digitação no título: chama o ato de "compra e venda". | Certidão Livro C-189, fl. 036 |
-| 7 | **09/05/2024** | Aditamento e rerratificação nº 25.116-007 (Livro C-190, fl. 011) | Mat. 89.567 | **JANES MARIA CAVANHI** (professora, CPF 227.827.020-68, filha de Eclair, divorciada, residente na **Rua Erminio Dal Más nº 509**, Erechim, mesma rua da mãe) corrige a própria qualificação na **Doação com Reserva de Usufruto do Livro 370, fl. 106, de 22/09/2023**. | Certidão Livro C-190, fl. 011 |
-| 8 | **04/06/2024** | Rerratificação nº 25.161-052 (Livro C-190, fl. 098) | Mat. 89.567 | Corrige a descrição das áreas "b" (Jeanete e Angelo) e "c" (Jacir). Erros materiais: chama o ato de "compra e venda" e diz que foi lavrado em "22/09/**2024**" (o correto é 2023). | Certidão Livro C-190, fl. 098 |
+| 1 | **25/01/2022** | **Escritura de Retificação de Áreas Rurais e Compra e Venda nº 50.998-025** (2º Tab. Erechim, **Livro 355-T, fl. 53**) | **Mat. 18.419**: Lote Rural 03 inteiro. A área retificada passa de 250.000 m² para **254.104,71 m²**. CCIR (25 ha) em nome de **Eclair**. | **Vendedores:** todos os condôminos, inclusive **Eclair**, mais Jairo e Inês, Jaime e Cinara, Jaqueline, Jacir, Jeanete e Angelo, e Jacson e Iani. Vários foram representados pela neta Allana Carla Cavanhi.<br>**Comprador:** Maurício Gian Tormen, confrontante.<br>**Objeto:** 7.911,28 m², por **R$ 70.000,00**, à vista e com quitação (**cerca de R$ 8,85/m²**).<br>Remanescente: 246.193,43 m² com a casa. | Certidão Livro 355, fl. 53 |
+| 2 | 27/05/2022 | Guias e pagamento do ITBI (Paulo Bento), nº 24/2022 e 25/2022 | Mat. 89.038 | Avaliação de R$ 30.000,00 (casa) e R$ 1.340.000,00 (área vendida aos Prigol). | Livro 359, fl. 1 |
+| 3 | **21/06/2022** | **Escritura de Extinção de Condomínio e Compra e Venda nº 51.325-001** (2º Tab. Erechim, **Livro 359-T, fl. 1**) | **Mat. 89.038**: 246.193,43 m² com casa de 73,50 m² | **A) Compra da casa:** Jairo, Jaime e Jaqueline vendem 57,14% da casa a **Eclair**, Jeanete e Angelo, e Jacir, por **R$ 30.000,00**. Aqui **Eclair é compradora**.<br>**B) Extinção do condomínio.** Antes, Eclair tinha **12,5% do terreno** e 33,33% da casa. Depois:<br>• 153.870,90 m² para Jairo, Jaime e Jacson (20% cada) e Jaqueline (40%);<br>• **92.322,53 m² + casa para Eclair, Jeanete e Angelo, e Jacir (1/3 cada)**.<br>**C) Venda:** os 153.870,90 m² são vendidos a **Ademir Paulo, Adilson José e Adroir Luiz Prigol** por **R$ 1.340.000,00** (**cerca de R$ 8,71/m²**). **Eclair não é vendedora nessa parte.** | Certidão Livro 359, fl. 1 |
+| 4 | **06 e 07/12/2022** | Emissão das guias de ITCD nº 1568911 e 1569002 (R$ 38.000,00 e R$ 28.000,00) e **nº 1569030 (R$ 144.000,00)** | Mat. 89.567 | **Início da preparação das doações** de Eclair aos filhos, **apenas 5 meses e meio depois** de ela receber a área na divisão. | Livro 370, fls. 104 e 107 |
+| 5 | **26 e 28/12/2022** | Pagamento do ITCD das doações de Eclair: R$ 840,00, R$ 1.140,00 e **R$ 4.320,00** | Mat. 89.567 | Todo o imposto é pago **9 meses antes** das escrituras. | Livro 370, fls. 104 e 107 |
+| 6 | 17/04/2023 | ITCD da 3ª doação (Jacir → Jeanete), R$ 246,03 | Mat. 89.567 | — | Livro 370, fl. 104 |
+| 7 | **22/09/2023** | **Escritura de Doação e Extinção de Condomínio nº 52.325-043** (2º Tab. Erechim, **Livro 370-T, fls. 100/105**) | **Mat. 89.567**: 92.322,53 m² com casa. O CCIR, agora com 9,2322 ha, continua em nome de Eclair. | **Doação 1:** Eclair → Jeanete e Angelo: 4.396,31 m² e 24,50 m² da casa (R$ 38.000,00).<br>**Doação 2:** Eclair → Jacir: 4.396,31 m² (R$ 28.000,00).<br>**Doação 3:** Jacir → Jeanete e Angelo: 24,50 m² da casa.<br>Eclair **declara que "possui outros bens e meios suficientes para garantir sua subsistência"** e não reserva usufruto.<br>**Extinção do condomínio:** Eclair fica com **21.981,55 m²**; Jeanete e Angelo com 35.170,49 m² e a casa; Jacir com 35.170,49 m².<br>As partes dispensam as certidões dos distribuidores e foram advertidas dos riscos. | Livro 370, fls. 100/105 |
+| 8 | **22/09/2023** (mesmo dia) | **Escritura de Doação com Reserva de Usufruto nº 52.326-044** (2º Tab. Erechim, **Livro 370-T, fls. 106/108**) | Os **21.981,55 m²** de Eclair, sem benfeitorias (Mat. 89.567) | Eclair doa a **nua propriedade** e **reserva para si o USUFRUTO VITALÍCIO**. Donatários:<br>1) **Janes Maria Cavanhi** (CPF 227.827.020-68);<br>2) **Jaime Luiz Kirniew** (CPF 324.956.250-53), Uberlândia/MG;<br>3) **Jaqueline Elena Kirniew** (CPF 572.833.700-72);<br>4) **Jair Antonio Kierniew** (CPF 466.041.380-20). **A CNIB deu INDISPONIBILIDADE POSITIVA em nome dele**;<br>5) **Jairo Carlos Kirniew** (CPF 398.914.450-20).<br>**Avaliação fiscal: R$ 144.000,00.** Eclair **declara que "possui outros meios suficientes para garantir sua subsistência"**. | Livro 370, fls. 106/108 |
+| 9 | 08/04/2024 | Rerratificação nº 25.035-015 (Livro C-189, fl. 036) | Mat. 89.567 | Corrige as coordenadas P18/P19 da área "c" (fls. 100/105). | Livro C-189, fl. 036 |
+| 10 | **08/04/2024** | Aditamento e rerratificação nº 25.040-020 (Livro C-189, fl. 049) | Mat. 89.567 | Faz constar na doação com usufruto (fls. 106/108B) que **"as partes atribuem ao imóvel o valor de R$ 144.000,00"**. | Livro C-189, fl. 049 |
+| 11 | 09/05/2024 | Aditamento e rerratificação nº 25.116-007 (Livro C-190, fl. 011) | Mat. 89.567 | Janes corrige a própria qualificação na doação com usufruto. | Livro C-190, fl. 011 |
+| 12 | 04/06/2024 | Rerratificação nº 25.161-052 (Livro C-190, fl. 098) | Mat. 89.567 | Corrige a descrição das áreas "b" e "c". Contém erros materiais: chama o ato de "compra e venda" e o data de "22/09/2024". | Livro C-190, fl. 098 |
+
+> As rerratificações de 2024 (itens 9 a 12) **sugerem que o registro das escrituras de 22/09/2023 foi demorado e passou por notas devolutivas do RI**. A data efetiva do registro na matrícula deve ser conferida.
 
 ---
 
-## 2. Leitura preliminar
+## 3. Leitura
 
-### 2.1 Esvaziamento patrimonial
-- **Dez/2022:** prepara e paga o ITCD das doações aos filhos.
-- **22/09/2023:** no mesmo dia, (a) doa parte da área rural a dois filhos, (b) extingue o condomínio e (c) aparentemente doa o restante (fl. 106) com reserva de usufruto.
+### 3.1 Esvaziamento patrimonial em 15 meses
+- **Jun/2022:** Eclair deixa de ser condômina de 12,5% de um imóvel maior e passa a ser **proprietária de 1/3 de 92.322,53 m² (cerca de 30.774 m²)** e de 1/3 da casa. Ela própria pagou parte dos R$ 30.000,00 da compra da casa.
+- **Dez/2022:** prepara e paga o ITCD de **todas** as doações.
+- **22/09/2023:** em duas escrituras no mesmo dia, transfere **tudo** aos 7 filhos e fica **só com o usufruto vitalício** de 21.981,55 m² (cerca de 2,2 ha).
 
-**Resultado (confirmado pelas escrituras):** em um único dia, Eclair transfere aos **7 filhos** tudo o que tinha no imóvel de Paulo Bento/RS. Jeanete e Jacir recebem frações em plena propriedade. Janes, Jaime, Jaqueline, Jair e Jairo recebem a nua propriedade dos 21.981,55 m² restantes. **Eclair fica apenas como usufrutuária vitalícia** desses 21.981,55 m² (cerca de 2,2 ha).
+### 3.2 Valor do que saiu do patrimônio
+| Critério | Fração de 30.774 m² (tudo o que ela doou) | Área do usufruto (21.981,55 m²) |
+|---|---|---|
+| Avaliação fiscal do ITCD (dez/2022) | R$ 210.000,00 (38 + 28 + 144 mil) | R$ 144.000,00 |
+| **Valor de mercado de referência**: vendas a terceiros de jan/2022 (R$ 8,85/m²) e jun/2022 (R$ 8,71/m²), áreas contíguas do mesmo lote | **cerca de R$ 268.000,00** | **cerca de R$ 191.500,00** |
 
-**Valor fiscal do que ela transferiu:** R$ 38.000,00 + R$ 28.000,00 + R$ 144.000,00 = **R$ 210.000,00**, com base nas avaliações de dez/2022.
+Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos e contemporâneos do valor da terra. Servem para demonstrar o *eventus damni* e o valor do direito de usufruto.
 
-### 2.2 Gratuidade de justiça
-- **Usufruto vitalício** sobre os 21.981,55 m² (fls. 106/108), imóvel rural com avaliação fiscal de R$ 144.000,00 para a nua propriedade, é direito real com valor econômico e dá direito aos frutos (arts. 1.390 e 1.394 do CC), como arrendamento e produção. Ela omitiu esse direito.
-- Em **duas** escrituras públicas de 22/09/2023, **ela mesma declarou** possuir "outros bens e meios suficientes" (fls. 100/105) e "outros meios suficientes" (fls. 106/108) para garantir sua subsistência. Isso contradiz a declaração de hipossuficiência.
-- **Ressalva:** a área do usufruto é pequena (cerca de 2,2 ha, sem benfeitorias), então os frutos podem ser modestos. O argumento mais forte é a **omissão** do usufruto e a contradição com as próprias declarações, mais do que o valor da renda. Vale apurar se a área está arrendada ou é cultivada, por exemplo pelo talão de produtor ou por um contrato de arrendamento.
-- Ela é aposentada, então tem renda fixa (o valor do benefício precisa ser apurado).
+### 3.3 Gratuidade de justiça
+- **Omissão do usufruto vitalício** sobre área rural de cerca de R$ 144 mil a R$ 191 mil. É direito real com conteúdo econômico e dá direito aos frutos (arts. 1.390 e 1.394 do CC).
+- **Duas declarações dela em escritura pública** (22/09/2023) de que tem "outros bens e meios" e "outros meios" suficientes para a própria subsistência.
+- **Participou de negócios de valor relevante em 2022**: a venda de R$ 70 mil e a compra de fração da casa de R$ 30 mil. Ela mesma e a família movimentaram valores incompatíveis com a alegada miserabilidade.
+- O **CCIR e a NIRF continuam em nome dela**, o que indica que ela é tratada como responsável fiscal pelo imóvel rural.
+- **Ressalva:** a área do usufruto é pequena e sem benfeitorias, então os frutos podem ser modestos. O núcleo do argumento é a **omissão** e a **contradição**. Vale apurar se a área está arrendada a algum vizinho, como os Prigol, Tormen ou os próprios filhos.
+- Ela é aposentada, com renda fixa (valor a apurar).
 
-### 2.3 Pauliana ou fraude à execução
-- Os atos de 22/09/2023 são **gratuitos**. Basta o *eventus damni*, sem prova de *consilium fraudis* (art. 158 do CC).
-- **Requisito central:** o crédito deve ser **anterior** aos atos (art. 158, § 2º, do CC). É preciso comparar com as datas dos processos (ajuizamento, citação e fixação dos honorários).
-- **Prazo decadencial:** 4 anos a partir da celebração do ato (art. 178, II, do CC; parte da jurisprudência conta do registro). Para os atos de 22/09/2023, **o prazo termina por volta de 22/09/2027**.
-- **Alternativa:** se Eclair já tinha sido citada quando praticou os atos e ficou insolvente, cabe alegar **fraude à execução** no próprio cumprimento de sentença (art. 792, IV, do CPC; Súmula 375/STJ, com a ressalva de que, em doação a filhos, a má-fé dos donatários é presumida ou irrelevante segundo boa parte da jurisprudência). Esse caminho é mais rápido e dispensa ação autônoma.
-- **O usufruto é inalienável, mas o seu exercício pode ser cedido** (art. 1.393 do CC). Por isso, os frutos e rendimentos do usufruto podem ser penhorados, mesmo sem pauliana.
+### 3.4 Pauliana ou fraude à execução
+- Os atos de 22/09/2023 são **gratuitos e em favor de descendentes**, então basta o *eventus damni* (art. 158 do CC).
+- **Requisito central:** o crédito deve ser **anterior a 22/09/2023** (art. 158, § 2º). Atenção: se o crédito surgiu entre jun/2022 e set/2023, a preparação das doações em dez/2022 reforça o argumento de fraude.
+- **Prazo decadencial:** 4 anos (art. 178, II, do CC), com término por volta de **22/09/2027**, ou mais tarde se contado do registro.
+- **Fraude à execução** (art. 792, IV, do CPC): cabe se ela já estava citada em 22/09/2023 (ou na data do registro). É mais rápida e dispensa ação autônoma.
+- **Polo passivo da pauliana:** Eclair e **todos os donatários**: Jeanete e Angelo, Jacir, Janes, Jaime, Jaqueline, Jair e Jairo, com os cônjuges ou companheiros quando o regime exigir.
+- **Os frutos do usufruto são penhoráveis** independentemente da pauliana (art. 1.393 do CC).
 
 ---
 
-## 3. Documentos que faltam (prioridade)
+## 4. Documentos que faltam (prioridade)
 
-1. **Matrícula 89.567 – RI Erechim, inteiro teor atualizado**, e as **matrículas abertas no desmembramento** (áreas "a", "b" e "c"). Servem para confirmar se e quando as escrituras foram registradas (a data do registro importa para a fraude à execução e para a contagem do prazo), o R- do usufruto e se a **indisponibilidade de Jair Antonio** impediu o registro.
-2. **Demais certidões já finalizadas no portal e ainda não analisadas:** 2º Tab. Erechim, Livro 359 fl. 1, Livro 355 fl. 53 e Livro 189 fl. 49; Tab. de Itapema/SC, Livro 783 fl. 160.
-3. Título aquisitivo da Mat. 89.567 (provável inventário de Alexandre Kirniew), para explicar o condomínio de 1/3.
-4. Dos processos: datas de ajuizamento, citação, sentença e trânsito em julgado, e cópia da declaração de hipossuficiência.
-5. Opcional: procuração de Uberlândia/MG (1º Tab., Livro 2241, fl. 005). Ela é citada como representação **tanto de Jaime quanto de Jair**, com o mesmo livro e folha (registros nº 4.869 e 4.870). Pode ser procuração conjunta ou erro material.
+1. **Matrículas do RI de Erechim, inteiro teor atualizado:** **89.567** e as abertas no desmembramento de set/2023; também **89.038** e **18.419**. Servem para ver as datas de registro, o R- do usufruto, se a indisponibilidade de Jair impediu o registro e como Eclair adquiriu o imóvel (provável inventário de Alexandre).
+2. **Dos processos:** datas de ajuizamento, citação, sentença e trânsito em julgado, e a declaração de hipossuficiência.
+3. **Certidão do Tabelionato de Itapema/SC, Livro 783, fl. 160** (pedido de 31/07/2026): ainda não analisada.
+4. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
