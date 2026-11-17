@@ -71,7 +71,26 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
 | Avaliação fiscal do ITCD (dez/2022) | R$ 210.000,00 (38 + 28 + 144 mil) | R$ 144.000,00 |
 | **Valor de mercado de referência**: vendas a terceiros de jan/2022 (R$ 8,85/m²) e jun/2022 (R$ 8,71/m²), áreas contíguas do mesmo lote | **cerca de R$ 268.000,00** | **cerca de R$ 191.500,00** |
 
-Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos e contemporâneos do valor da terra. Servem para demonstrar o *eventus damni* e o valor do direito de usufruto.
+Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos do valor da terra **em 2022** (cerca de R$ 87–88 mil/ha). Servem para demonstrar o *eventus damni*, mas **estão defasados**.
+
+#### Estimativa do valor atual (nov/2026), preliminar e sem laudo
+
+| Referência | R$/ha | Observação |
+|---|---|---|
+| Vendas do próprio lote (jan e jun/2022) | 87.100 – 88.500 | Preço efetivamente pago, áreas contíguas |
+| As mesmas vendas corrigidas pelo IPCA (cerca de +20% entre 2022 e 2026) | cerca de 105.000 | Só atualiza a moeda |
+| Barra do Rio Azul/RS (vizinho), média de 19 imóveis anunciados (RELAND) | cerca de 117.700 | Preço pedido, data não confirmada |
+| Atlas do Mercado de Terras do INCRA, mercado "Planalto" (inclui Erechim), terra agrícola, dez/2024 | cerca de 130.600 | Média regional, sem atualização desde 2024 |
+| **Faixa adotada** | **105.000 – 130.000** | |
+
+| Área | Hectares | Valor estimado hoje |
+|---|---|---|
+| Área do usufruto (nua propriedade doada aos 5 filhos) | 2,198 ha | **R$ 231 mil – R$ 286 mil** |
+| Tudo o que Eclair doou em 22/09/2023 | 3,077 ha | **R$ 323 mil – R$ 400 mil** |
+
+**Valor do usufruto em si:** é o valor dos frutos. Pode ser estimado pelo valor de arrendamento da região, normalmente expresso em sacas de soja por hectare por ano, a confirmar com a Emater, o sindicato rural ou corretores locais.
+
+**Para uso em juízo:** antes de usar esses números, convém confirmar com (i) a pauta de VTN 2026 de Paulo Bento informada à Receita para o ITR (prefeitura), (ii) a PPR/RAMT mais recente do INCRA-RS, (iii) parecer de corretor ou engenheiro agrônomo da região ou (iv) avaliação judicial por oficial de justiça na fase executiva.
 
 ### 3.3 Gratuidade de justiça
 - **Omissão do usufruto vitalício** sobre área rural de cerca de R$ 144 mil a R$ 191 mil. É direito real com conteúdo econômico e dá direito aos frutos (arts. 1.390 e 1.394 do CC).
@@ -95,5 +114,4 @@ Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos e c
 
 1. **Matrículas do RI de Erechim, inteiro teor atualizado:** **89.567** e as abertas no desmembramento de set/2023; também **89.038** e **18.419**. Servem para ver as datas de registro, o R- do usufruto, se a indisponibilidade de Jair impediu o registro e como Eclair adquiriu o imóvel (provável inventário de Alexandre).
 2. **Dos processos:** datas de ajuizamento, citação, sentença e trânsito em julgado, e a declaração de hipossuficiência.
-3. **Certidão do Tabelionato de Itapema/SC, Livro 783, fl. 160** (pedido de 31/07/2026): ainda não analisada.
-4. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
+3. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
