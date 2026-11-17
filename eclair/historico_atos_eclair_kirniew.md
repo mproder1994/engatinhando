@@ -26,14 +26,37 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
         │
         ├─ 21/06/2022: 153.870,90 m² para Jairo, Jaime, Jacson e Jaqueline → vendidos aos irmãos Prigol (R$ 1.340.000,00)
         │
-        └─ 21/06/2022: 92.322,53 m² + casa para ECLAIR, Jeanete e Angelo, e Jacir (1/3 cada)  →  Mat. 89.567
+        └─ 21/06/2022: 92.322,53 m² + casa para ECLAIR, Jeanete e Angelo, e Jacir (1/3 cada)
+              →  Mat. 89.567 (aberta em 08/08/2022, a partir do R.5-89.038)
               │
               ├─ 22/09/2023: Eclair doa 4.396 m² + 1/3 da casa a Jeanete e Angelo, e 4.396 m² a Jacir; extinção do condomínio
-              │      → Jeanete e Angelo: 35.170,49 m² + casa | Jacir: 35.170,49 m² | Eclair: 21.981,55 m²
+              │      (REGISTRADO SÓ EM 07/06/2024: R.3 a R.8; matrícula 89.567 ENCERRADA pela Av.9)
+              │      → Eclair: 21.981,55 m²  →  Mat. 95.596
+              │      → Jeanete e Angelo: 35.170,49 m² + casa  →  Mat. 95.597
+              │      → Jacir: 35.170,49 m²  →  Mat. 95.598
               │
-              └─ 22/09/2023: Eclair doa a NUA PROPRIEDADE dos 21.981,55 m² aos outros 5 filhos
+              └─ 22/09/2023: Eclair doa a NUA PROPRIEDADE dos 21.981,55 m² aos outros 5 filhos (Livro 370, fls. 106/108)
+                     → deve constar na Mat. 95.596, ainda NÃO consultada
                      → ECLAIR FICA SÓ COM O USUFRUTO VITALÍCIO
 ```
+
+### Dados do registro (Mat. 89.567 – RI Erechim, CNM 099283.2.0089567-90; consulta simples de 17/11/2026, que não vale como certidão)
+
+| Ato | Data | Conteúdo |
+|---|---|---|
+| Abertura | 08/08/2022 | 92.322,53 m² com casa. Proprietários: Eclair, Jeanete e Angelo, e Jacir. Registro anterior: R.5-89.038. Título protocolado em 23/06/2022. CCIR 2021 (25 ha) e NIRF 2.071.220-0 |
+| Av.1 | 07/06/2024 | Retificação do CNM |
+| Av.2 | 07/06/2024 | CCIR 2023 (9,2322 ha), **detentora: Eclair Kirniew**; NIRF 2.071.220-0 |
+| **Protocolo** | **08/04/2024** (Livro 1-AU, nº 304.822) | Prenotação das escrituras de 22/09/2023, **6,5 meses depois** de lavradas |
+| R.3 | **07/06/2024** | Doação Eclair → Jeanete e Angelo (4.396,3133 m² e 24,50 m² da casa); R$ 38.000,00. Registra a declaração de "outros bens e meios suficientes" |
+| R.4 | **07/06/2024** | Doação Eclair → Jacir (4.396,3133 m²); R$ 28.000,00. Mesma declaração |
+| R.5 | 07/06/2024 | Doação Jacir → Jeanete e Angelo (24,50 m² da casa) |
+| R.6 | **07/06/2024** | Divisão: **21.981,55 m² para Eclair → Mat. 95.596** |
+| R.7 | 07/06/2024 | Divisão: 35.170,49 m² e a casa para Jeanete e Angelo → Mat. 95.597 |
+| R.8 | 07/06/2024 | Divisão: 35.170,49 m² para Jacir → Mat. 95.598 |
+| Av.9 | 07/06/2024 | **Encerramento da Mat. 89.567** |
+
+> **Atenção:** a doação com reserva de usufruto (fls. 106/108) **não aparece na 89.567**. Ela deve ter sido registrada na **Mat. 95.596**, aberta para a área de Eclair, se chegou a ser registrada, já que havia indisponibilidade em nome de Jair.
 
 ---
 
@@ -54,7 +77,7 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
 | 11 | 09/05/2024 | Aditamento e rerratificação nº 25.116-007 (Livro C-190, fl. 011) | Mat. 89.567 | Janes corrige a própria qualificação na doação com usufruto. | Livro C-190, fl. 011 |
 | 12 | 04/06/2024 | Rerratificação nº 25.161-052 (Livro C-190, fl. 098) | Mat. 89.567 | Corrige a descrição das áreas "b" e "c". Contém erros materiais: chama o ato de "compra e venda" e o data de "22/09/2024". | Livro C-190, fl. 098 |
 
-> As rerratificações de 2024 (itens 9 a 12) **sugerem que o registro das escrituras de 22/09/2023 foi demorado e passou por notas devolutivas do RI**. A data efetiva do registro na matrícula deve ser conferida.
+> **Confirmado pela matrícula:** as escrituras de 22/09/2023 só foram **protocoladas no RI em 08/04/2024** (mesmo dia das primeiras rerratificações) e **registradas em 07/06/2024**. Em imóvel, a propriedade só se transfere com o registro (art. 1.245 do CC), então **a alienação só produziu efeitos em 07/06/2024**.
 
 ---
 
@@ -73,20 +96,31 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
 
 Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos do valor da terra **em 2022** (cerca de R$ 87–88 mil/ha). Servem para demonstrar o *eventus damni*, mas **estão defasados**.
 
-#### Estimativa do valor atual (nov/2026), preliminar e sem laudo
+#### Referência oficial: INCRA, PPR/SR(RS)/2022/MRT 02 – Planalto (coleta de set. a nov./2022), recorte "Erechim"
+
+| Tipologia (Erechim) | VTN/ha – limite inferior | **VTN/ha – média** | VTN/ha – limite superior |
+|---|---|---|---|
+| Agrícola, grãos/soja, capacidade **alta** | 125.656,20 | **147.830,83** | 170.005,45 |
+| Agrícola, grãos/soja, capacidade **média** | 101.920,34 | **119.906,28** | 137.892,23 |
+| Agrícola, grãos/soja, capacidade **baixa** | 62.538,76 | **73.575,01** | 84.611,27 |
+| Exploração mista diversificada | 32.698,65 | 38.469,00 | 44.239,36 |
+
+Fonte: [INCRA – RAMT SR-RS 2022, p. 17](https://www.gov.br/incra/pt-br/assuntos/governanca-fundiaria/relatorio-de-analise-de-mercados-de-terras/RAMT_SRRS_2022.pdf). As vendas do próprio lote em 2022 (cerca de R$ 87–88,5 mil/ha) ficam **entre as faixas "baixa" e "média"** de Erechim. Isso sugere terra de lavoura de capacidade média/baixa e confirma que aqueles preços eram de mercado.
+
+#### Estimativa do valor atual (nov/2026), sem laudo
 
 | Referência | R$/ha | Observação |
 |---|---|---|
 | Vendas do próprio lote (jan e jun/2022) | 87.100 – 88.500 | Preço efetivamente pago, áreas contíguas |
-| As mesmas vendas corrigidas pelo IPCA (cerca de +20% entre 2022 e 2026) | cerca de 105.000 | Só atualiza a moeda |
-| Barra do Rio Azul/RS (vizinho), média de 19 imóveis anunciados (RELAND) | cerca de 117.700 | Preço pedido, data não confirmada |
-| Atlas do Mercado de Terras do INCRA, mercado "Planalto" (inclui Erechim), terra agrícola, dez/2024 | cerca de 130.600 | Média regional, sem atualização desde 2024 |
-| **Faixa adotada** | **105.000 – 130.000** | |
+| Mesmas vendas atualizadas pela valorização do INCRA para a terra agrícola do Planalto entre 2022 e dez/2024 (de R$ 116.648 para cerca de R$ 130.641/ha, +12%) | cerca de 98.000 – 99.000 | Atualização até dez/2024 |
+| **RELAND – Paulo Bento/RS**, estimativa "em tempo real" (4 amostras, confiança "experimental"), consultada em 17/11/2026 | **114.147** | Do próprio município |
+| RELAND – Erechim/RS (5 amostras, "experimental"), consultada em 17/11/2026 | 103.082 | |
+| **Faixa adotada** | **100.000 – 115.000** (valor central de cerca de R$ 110 mil) | |
 
 | Área | Hectares | Valor estimado hoje |
 |---|---|---|
-| Área do usufruto (nua propriedade doada aos 5 filhos) | 2,198 ha | **R$ 231 mil – R$ 286 mil** |
-| Tudo o que Eclair doou em 22/09/2023 | 3,077 ha | **R$ 323 mil – R$ 400 mil** |
+| Área do usufruto (nua propriedade doada aos 5 filhos) – Mat. 95.596 | 2,198 ha | **R$ 220 mil – R$ 253 mil** (central de cerca de R$ 242 mil) |
+| Tudo o que Eclair doou em 22/09/2023 | 3,077 ha | **R$ 308 mil – R$ 354 mil** (central de cerca de R$ 338 mil) |
 
 **Valor do usufruto em si:** é o valor dos frutos. Pode ser estimado pelo valor de arrendamento da região, normalmente expresso em sacas de soja por hectare por ano, a confirmar com a Emater, o sindicato rural ou corretores locais.
 
@@ -103,8 +137,9 @@ Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos do 
 ### 3.4 Pauliana ou fraude à execução
 - Os atos de 22/09/2023 são **gratuitos e em favor de descendentes**, então basta o *eventus damni* (art. 158 do CC).
 - **Requisito central:** o crédito deve ser **anterior a 22/09/2023** (art. 158, § 2º). Atenção: se o crédito surgiu entre jun/2022 e set/2023, a preparação das doações em dez/2022 reforça o argumento de fraude.
-- **Prazo decadencial:** 4 anos (art. 178, II, do CC), com término por volta de **22/09/2027**, ou mais tarde se contado do registro.
-- **Fraude à execução** (art. 792, IV, do CPC): cabe se ela já estava citada em 22/09/2023 (ou na data do registro). É mais rápida e dispensa ação autônoma.
+- **Data relevante do ato: 07/06/2024 (registro), e não 22/09/2023.** A transmissão de imóvel só se opera com o registro (art. 1.245 do CC), e o registro é o que dá publicidade a terceiros. Isso **favorece o credor**: um crédito surgido entre set/2023 e jun/2024 ainda pode ser considerado anterior à alienação. É tese a sustentar; a posição mais conservadora usa a data da escritura.
+- **Prazo decadencial:** 4 anos (art. 178, II, do CC). Pela data da escritura, termina em **22/09/2027**. Contado do registro, como já admitido pelo STJ para imóveis (a confirmar o precedente antes de citar), termina em **07/06/2028**. **Por prudência, ajuizar antes de 22/09/2027.**
+- **Fraude à execução** (art. 792, IV, do CPC): cabe se, **em 07/06/2024** (ou ao menos no protocolo, em 08/04/2024), já tramitava contra ela ação capaz de reduzi-la à insolvência. É mais rápida e dispensa ação autônoma.
 - **Polo passivo da pauliana:** Eclair e **todos os donatários**: Jeanete e Angelo, Jacir, Janes, Jaime, Jaqueline, Jair e Jairo, com os cônjuges ou companheiros quando o regime exigir.
 - **Os frutos do usufruto são penhoráveis** independentemente da pauliana (art. 1.393 do CC).
 
@@ -112,6 +147,8 @@ Os dois negócios com terceiros (Tormen e Prigol) são parâmetros objetivos do 
 
 ## 4. Documentos que faltam (prioridade)
 
-1. **Matrículas do RI de Erechim, inteiro teor atualizado:** **89.567** e as abertas no desmembramento de set/2023; também **89.038** e **18.419**. Servem para ver as datas de registro, o R- do usufruto, se a indisponibilidade de Jair impediu o registro e como Eclair adquiriu o imóvel (provável inventário de Alexandre).
-2. **Dos processos:** datas de ajuizamento, citação, sentença e trânsito em julgado, e a declaração de hipossuficiência.
-3. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
+1. **Mat. 95.596 – RI Erechim (área de 21.981,55 m² de Eclair). É A MAIS IMPORTANTE AGORA:** mostra se e quando a doação com reserva de usufruto foi registrada, o registro do usufruto em favor de Eclair e o efeito da indisponibilidade de Jair.
+2. Para o processo, **certidões de inteiro teor** (com validade de certidão) das Mats. 89.567 e 95.596. A 89.567 recebida é "consulta simples – não vale como certidão".
+3. Complementares: Mats. 95.597 e 95.598 (áreas doadas a Jeanete e Angelo e a Jacir, para a pauliana), 89.038 e 18.419 (origem: como Eclair adquiriu o imóvel).
+4. **Dos processos:** datas de ajuizamento, citação, sentença e trânsito em julgado, e a declaração de hipossuficiência.
+5. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
