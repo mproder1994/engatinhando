@@ -36,7 +36,7 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
               │      → Jacir: 35.170,49 m²  →  Mat. 95.598
               │
               └─ 22/09/2023: Eclair doa a NUA PROPRIEDADE dos 21.981,55 m² aos outros 5 filhos (Livro 370, fls. 106/108)
-                     → deve constar na Mat. 95.596, ainda NÃO consultada
+                     → REGISTRADO EM 07/06/2024 na Mat. 95.596 (R.1 doação da nua propriedade; R.2 USUFRUTO VITALÍCIO de Eclair)
                      → ECLAIR FICA SÓ COM O USUFRUTO VITALÍCIO
 ```
 
@@ -56,7 +56,28 @@ Mat. 18.419 – Lote Rural 03 inteiro (250.000 m², retificado para 254.104,71 m
 | R.8 | 07/06/2024 | Divisão: 35.170,49 m² para Jacir → Mat. 95.598 |
 | Av.9 | 07/06/2024 | **Encerramento da Mat. 89.567** |
 
-> **Atenção:** a doação com reserva de usufruto (fls. 106/108) **não aparece na 89.567**. Ela deve ter sido registrada na **Mat. 95.596**, aberta para a área de Eclair, se chegou a ser registrada, já que havia indisponibilidade em nome de Jair.
+### Dados do registro (Mat. 95.596 – 1º RI Erechim, CNM 099283.2.0095596-45; consulta simples de 17/11/2026, que não vale como certidão)
+
+**Imóvel:** 21.981,55 m², sem acessões, parte do Lote Rural nº 03, Linha 04, Secção Paiol Grande, Paulo Bento/RS. **CCIR 857.017.032.220-7 (9,2322 ha) e NIRF 2.071.220-0 continuam vinculados a este imóvel.** Aberta em 07/06/2024 em nome de **Eclair Kirniew** (registro anterior R.6-89.567).
+
+| Ato | Data | Conteúdo |
+|---|---|---|
+| **R.1** | **07/06/2024** (protocolo nº 304.823, de 08/04/2024) | **Doação da nua propriedade** da totalidade do imóvel, de Eclair a Janes, Jaime (em união estável com Cinara), Jaqueline, Jair (casado com Andreia) e Jairo (casado com Inês). Valor fiscal de R$ 144.000,00; **valor atualizado para emolumentos em 2024: R$ 154.641,60**. ITCD pago em 28/12/2022. Consta a declaração da doadora de que "possui outros meios suficientes para garantir sua subsistência" |
+| **R.2** | **07/06/2024** | **RESERVA DE USUFRUTO VITALÍCIO.** Usufrutuária: **ECLAIR KIRNIEW**. Objeto: a totalidade do imóvel. Prazo: vitalício |
+| Av.3 | 07/06/2024 | União estável de Jaime e Cinara Gonçalves |
+| Av.4 a Av.9 | 07/06/2024 | **Seis indisponibilidades (CNIB) sobre a fração de JAIR ANTONIO**, cadastradas entre 2018 e 2020: execução fiscal na 1ª Vara Federal de Erechim; reclamatórias e execuções trabalhistas em Itaguaí/RJ, Salvador/BA, Erechim/RS e Parauapebas/PA (várias contra a empresa FAMTI) |
+| Av.10 | 21/06/2024 | Indisponibilidade sobre a fração de Jair (Vara do Trabalho de Itaituba/PA, execução trabalhista) |
+| Av.11 | 14/04/2025 | Indisponibilidade sobre a fração de Jair (1ª Vara do Trabalho de Araucária/PR) |
+| **Av.12** | **10/06/2025** | **PENHORA da fração ideal da nua propriedade de Jair**: Execução Fiscal nº 5006312-77.2023.4.04.7104 (1ª Vara Federal de Passo Fundo/RS), União (Fazenda Nacional) contra FAMTI – Fabricação e Montagem Técnica Industrial Ltda., Valmir José Carbonera e Jair Antonio Kierniew. **Valor da ação: R$ 2.280.336,66.** Depositário: Jair |
+| Av.13 | 16/07/2025 | Indisponibilidade sobre a fração de Jair (TJRS, 2ª Vara Cível de Erechim) |
+| Av.14 | 18/05/2026 | Indisponibilidade sobre a fração de Jair (2ª Vara do Trabalho de Paranaguá/PR) |
+
+> Alguns números de processo nas averbações estão parcialmente encobertos pela marca d'água da consulta simples. Conferir na certidão de inteiro teor.
+
+**Leitura:**
+- **O usufruto vitalício de Eclair está registrado (R.2), e o cadastro rural (CCIR/NIRF) continua em nome dela.** É prova documental direta do bem omitido na declaração de hipossuficiência.
+- **Eclair doou 1/5 da nua propriedade a um filho (Jair) com dívidas milionárias e seis indisponibilidades já existentes.** Hoje essa fração está **penhorada pela União** (R$ 2,28 milhões) e tem mais quatro indisponibilidades.
+- **Ponto de atenção para a pauliana:** sobre a fração de Jair haverá **concurso com a Fazenda Nacional e com credores trabalhistas**, que têm preferência legal (art. 186 do CTN). Na prática, o valor útil da pauliana tende a ficar nas frações de **Janes, Jaime, Jaqueline e Jairo** (4/5 da nua propriedade) e nas áreas doadas sem usufruto a **Jeanete e Angelo** e a **Jacir** (Mats. 95.597 e 95.598, a consultar).
 
 ---
 
@@ -119,7 +140,7 @@ Fonte: [INCRA – RAMT SR-RS 2022, p. 17](https://www.gov.br/incra/pt-br/assunto
 
 | Área | Hectares | Valor estimado hoje |
 |---|---|---|
-| Área do usufruto (nua propriedade doada aos 5 filhos) – Mat. 95.596 | 2,198 ha | **R$ 220 mil – R$ 253 mil** (central de cerca de R$ 242 mil) |
+| Área do usufruto (nua propriedade doada aos 5 filhos) – Mat. 95.596 (para emolumentos, o RI atualizou o valor para R$ 154.641,60 em 2024) | 2,198 ha | **R$ 220 mil – R$ 253 mil** (central de cerca de R$ 242 mil) |
 | Tudo o que Eclair doou em 22/09/2023 | 3,077 ha | **R$ 308 mil – R$ 354 mil** (central de cerca de R$ 338 mil) |
 
 **Valor do usufruto em si:** é o valor dos frutos. Pode ser estimado pelo valor de arrendamento da região, normalmente expresso em sacas de soja por hectare por ano, a confirmar com a Emater, o sindicato rural ou corretores locais.
@@ -147,8 +168,8 @@ Fonte: [INCRA – RAMT SR-RS 2022, p. 17](https://www.gov.br/incra/pt-br/assunto
 
 ## 4. Documentos que faltam (prioridade)
 
-1. **Mat. 95.596 – RI Erechim (área de 21.981,55 m² de Eclair). É A MAIS IMPORTANTE AGORA:** mostra se e quando a doação com reserva de usufruto foi registrada, o registro do usufruto em favor de Eclair e o efeito da indisponibilidade de Jair.
+1. ~~Mat. 95.596~~: **recebida** (consulta simples). Usufruto registrado (R.2).
 2. Para o processo, **certidões de inteiro teor** (com validade de certidão) das Mats. 89.567 e 95.596. A 89.567 recebida é "consulta simples – não vale como certidão".
-3. Complementares: Mats. 95.597 e 95.598 (áreas doadas a Jeanete e Angelo e a Jacir, para a pauliana), 89.038 e 18.419 (origem: como Eclair adquiriu o imóvel).
+3. **Mats. 95.597 e 95.598** (áreas doadas sem usufruto a Jeanete e Angelo e a Jacir): verificar se continuam com eles, se há ônus e se houve alienação posterior. Complementares, 89.038 e 18.419 (origem: como Eclair adquiriu o imóvel).
 4. **Dos processos:** datas de ajuizamento, citação, sentença e trânsito em julgado, e a declaração de hipossuficiência.
 5. Opcional: verificar se há arrendamento ou parceria rural sobre os 21.981,55 m² (talão de produtor ou nota fiscal de produtor em nome de Eclair, ou declaração de ITR).
